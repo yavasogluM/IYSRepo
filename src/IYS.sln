@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IYS.Bridge", "IYS.Bridge\IY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IYS.Helper", "IYS.Helper\IYS.Helper.csproj", "{A6ECF2C1-8432-4E5E-B68C-6D9C0E78A07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IYS.Tests", "IYS.Tests\IYS.Tests.csproj", "{B78E5457-43D3-43FD-B568-369CE9239ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IYS.WebUI", "IYS.WebUI\IYS.WebUI.csproj", "{AB1544F0-A08E-4FA9-8C82-5A39216C9882}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A6ECF2C1-8432-4E5E-B68C-6D9C0E78A07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6ECF2C1-8432-4E5E-B68C-6D9C0E78A07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6ECF2C1-8432-4E5E-B68C-6D9C0E78A07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78E5457-43D3-43FD-B568-369CE9239ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78E5457-43D3-43FD-B568-369CE9239ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78E5457-43D3-43FD-B568-369CE9239ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78E5457-43D3-43FD-B568-369CE9239ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB1544F0-A08E-4FA9-8C82-5A39216C9882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB1544F0-A08E-4FA9-8C82-5A39216C9882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB1544F0-A08E-4FA9-8C82-5A39216C9882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB1544F0-A08E-4FA9-8C82-5A39216C9882}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Bridge/IYS.Bridge.csproj",
+      "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj",
       "projectName": "IYS.Bridge",
-      "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Bridge/IYS.Bridge.csproj",
+      "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj",
       "packagesPath": "/Users/metin/.nuget/packages/",
-      "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Bridge/obj/",
+      "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/metin/.config/NuGet/NuGet.Config"
@@ -94,8 +94,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj": {
-              "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj"
+            "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {
+              "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj"
             }
           }
         }

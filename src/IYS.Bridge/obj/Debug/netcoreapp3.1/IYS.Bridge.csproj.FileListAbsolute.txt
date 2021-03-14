@@ -1,0 +1,12 @@
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/bin/Debug/netcoreapp3.1/IYS.Bridge.deps.json
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/bin/Debug/netcoreapp3.1/IYS.Bridge.dll
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/bin/Debug/netcoreapp3.1/IYS.Bridge.pdb
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/bin/Debug/netcoreapp3.1/IYS.Helper.dll
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/bin/Debug/netcoreapp3.1/IYS.Helper.pdb
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.csprojAssemblyReference.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.AssemblyInfoInputs.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.AssemblyInfo.cs
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.csproj.CoreCompileInputs.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.csproj.CopyComplete
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.dll
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/Debug/netcoreapp3.1/IYS.Bridge.pdb

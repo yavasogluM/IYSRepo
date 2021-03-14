@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3X3Ms2d5E1s4d5UoYkGMtmm6BWx+PNUcyofmXcQKRIKj/U7syAq5CyHm55I636yDo0Y3LQl7SqGCnzCcpWa3uA==",
+  "success": true,
+  "projectFilePath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.WebUI/IYS.WebUI.csproj",
+  "expectedPackageFiles": [
+    "/Users/metin/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/metin/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/Users/metin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

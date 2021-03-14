@@ -1,0 +1,9 @@
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/bin/Debug/netcoreapp3.1/IYS.Helper.deps.json
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/bin/Debug/netcoreapp3.1/IYS.Helper.dll
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/bin/Debug/netcoreapp3.1/IYS.Helper.pdb
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.csprojAssemblyReference.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.AssemblyInfoInputs.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.AssemblyInfo.cs
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.csproj.CoreCompileInputs.cache
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.dll
+/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/Debug/netcoreapp3.1/IYS.Helper.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj": {}
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {}
   },
   "projects": {
-    "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj": {
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
+        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj",
         "projectName": "IYS.Helper",
-        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
+        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj",
         "packagesPath": "/Users/metin/.nuget/packages/",
-        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/obj/",
+        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/metin/.config/NuGet/NuGet.Config"

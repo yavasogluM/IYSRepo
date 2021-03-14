@@ -1,0 +1,88 @@
+﻿@model IYS.WebUI.Models.TokenViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div>
+    @if (Model == null)
+    {
+        using (Html.BeginForm("Index", "Home", FormMethod.Post))
+        {
+            <div>
+                <input type="text" name="username" placeholder="UserName" autocomplete="off" />
+            </div>
+            <div>
+                <input type="text" name="password" placeholder="Password" autocomplete="off" />
+            </div>
+            <div>
+                <input type="submit" value="Token Al!" />
+            </div>
+        }
+    }
+    else if(Model != null)
+    {
+        <div>
+            <b>Access Token:</b> @Model.AccessToken <br />
+            <b>ExpiredAt:</b> @Model.ExpiredAt.ToString()
+        </div>
+
+        <div>
+            <input type="hidden" id="HdToken" value="@Model.AccessToken" />
+            <input type="hidden" id="HdTokenType" value="@Model.TokenType" />
+        </div>
+        <div>
+            <input type="text" placeholder="Email" id="TxtEmail" />
+        </div>
+        <div>
+            <input type="text" placeholder="IYS Code" id="TxtIYSCode" />
+        </div>
+        <div>
+            <select id="SlctType">
+                <option value="BIREYSEL" selected="selected">Bireysel</option>
+                <option value="TACIR">Tacir/Ticari/Kurumsal</option>
+            </select>
+        </div>
+        <div>
+            <input type="button" value="Kontrol Et" class="btnCheck" />
+        </div>
+    }
+</div>
+<script type="text/javascript">
+    $(function () {
+        $('.btnCheck').on('click', function () {
+            console.log('basıldı!');
+            var _data = {
+                token: $('#HdToken').val(),
+                tokentype: $('#HdTokenType').val(),
+                email: $('#TxtEmail').val(),
+                type: $('#SlctType').val(),
+                iyscode: $('#TxtIYSCode').val()
+            }
+            console.log(_data);
+            var _url = '/Home/CheckUserPermission';
+
+            $.ajax({
+                url: _url,
+                type: 'POST',
+                data: JSON.stringify(_data),
+                dataType: 'JSON',
+                contentType: 'application/json; charset=utf-8',
+                success: function (res) {
+                    console.log('---İşlem Sonucu---')
+                    console.log(res);
+                    
+                },
+                error: function (msg) {
+                    console.log('error!');
+                    console.log(msg);
+                }
+            })
+        })
+    })
+</script>

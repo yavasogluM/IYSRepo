@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SkTK641WTMUO7L2R/VCZQ4HO/4BhH/zDi+BCfSB5I4j/lSYX+Y+VmobXrFpolk0lFIi2OlW4FbqzVzfWPVItYg==",
+  "dgSpecHash": "BWFnHawp/ffggCa3kGRLa4GZnU8vbA9ULzPPch86zY/lnIWJPpoAzxWxuYVOQv99sm03Epxk9kvi1SJdO8kjtQ==",
   "success": true,
-  "projectFilePath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
+  "projectFilePath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj",
   "expectedPackageFiles": [
     "/Users/metin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
   ],

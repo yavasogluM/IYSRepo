@@ -1,0 +1,203 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Tests/IYS.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj",
+        "projectName": "IYS.Bridge",
+        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj",
+        "packagesPath": "/Users/metin/.nuget/packages/",
+        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/metin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {
+                "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj",
+        "projectName": "IYS.Helper",
+        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj",
+        "packagesPath": "/Users/metin/.nuget/packages/",
+        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/metin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Tests/IYS.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Tests/IYS.Tests.csproj",
+        "projectName": "IYS.Tests",
+        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Tests/IYS.Tests.csproj",
+        "packagesPath": "/Users/metin/.nuget/packages/",
+        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/metin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj": {
+                "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Bridge/IYS.Bridge.csproj"
+              },
+              "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj": {
+                "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/src/IYS.Helper/IYS.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
