@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5fxAQtt79YK2/vfIfvaqRuq6PQGsvlGW1gi/Oofc6vVBSsD5BZtfG3MfGuN8ckZEhCjuY9gBHLcdYN09Wg47JQ==",
+  "success": true,
+  "projectFilePath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Bridge/IYS.Bridge.csproj",
+  "expectedPackageFiles": [
+    "/Users/metin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

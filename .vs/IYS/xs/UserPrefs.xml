@@ -1,0 +1,32 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IYS.Bridge/LoginHelper.cs">
+    <Files>
+      <File FileName="IYS.Bridge/Class1.cs" Line="27" Column="10" />
+      <File FileName="IYS.Helper/ConfigHelper.cs" />
+      <File FileName="IYS.Bridge/Models/IYSConfigModel.cs" Line="12" Column="6" />
+      <File FileName="IYS.Bridge/Models/BulkPermissionModels.cs" Line="11" Column="46" />
+      <File FileName="IYS.Bridge/Models/PermissionModels.cs" Line="23" Column="48" />
+      <File FileName="IYS.Bridge/Models/TokenModels.cs" Line="18" Column="79" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IYS" expanded="True">
+            <Node name="IYS.Bridge" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="LoginHelper.cs" selected="True" />
+            </Node>
+            <Node name="IYS.Helper" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IYS.Helper FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

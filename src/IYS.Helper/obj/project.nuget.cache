@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkTK641WTMUO7L2R/VCZQ4HO/4BhH/zDi+BCfSB5I4j/lSYX+Y+VmobXrFpolk0lFIi2OlW4FbqzVzfWPVItYg==",
+  "success": true,
+  "projectFilePath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
+  "expectedPackageFiles": [
+    "/Users/metin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

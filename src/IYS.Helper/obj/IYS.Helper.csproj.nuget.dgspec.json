@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/metin/Desktop/Projects/IYSRepo/IYS/IYS.Bridge/IYS.Bridge.csproj": {}
+    "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj": {}
   },
   "projects": {
-    "/Users/metin/Desktop/Projects/IYSRepo/IYS/IYS.Bridge/IYS.Bridge.csproj": {
+    "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/IYS/IYS.Bridge/IYS.Bridge.csproj",
-        "projectName": "IYS.Bridge",
-        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS/IYS.Bridge/IYS.Bridge.csproj",
+        "projectUniqueName": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
+        "projectName": "IYS.Helper",
+        "projectPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/IYS.Helper.csproj",
         "packagesPath": "/Users/metin/.nuget/packages/",
-        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS/IYS.Bridge/obj/",
+        "outputPath": "/Users/metin/Desktop/Projects/IYSRepo/IYS.Helper/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/metin/.config/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
